@@ -156,6 +156,6 @@
 
 相关能力
 
--   编程语言：Python (熟练)，C(熟练)，Matlab (入门)，Java (入门)
+-   编程语言：Python (熟练)，C(熟练)，Java (熟练)，Matlab (熟练)，C\#（了解）
 
 -   英语：CET-6
