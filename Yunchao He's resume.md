@@ -70,13 +70,11 @@
 
 -   社群媒体分析于消费者健康资讯之应用 2015年2月 – 2015年6月
 
-(台湾行政院国家科学委员会专题研究计划)
+    (台湾行政院国家科学委员会专题研究计划)
 
--   利用聚类方法对Twitter短文本进行预处理以构建长文本
+    -   利用聚类方法对Twitter短文本进行预处理以构建长文本
 
--   分析非正式短文本的情感类别
-
-<!-- -->
+    -   分析非正式短文本的情感类别
 
 -   基于概率图模型的海量评分数据分析与用户行为建模 2014年10月 – 2015年2月
 
@@ -107,6 +105,8 @@
 -   Chin-Sheng Yang, Yung-Chih Chen, Yunchao He. (2015, July). MINING OPINION LEADERS IN SOCIAL MEDIA. *The Third Taiwan Summer Workshop on Information Management*, Taipei, Taiwan. (Accepted)
 
 -   Yunchao He, Chin-Sheng Yang, Liang-Chih Yu, K. Robert Lai, Weiyi Liu. (2015, December). *Sentiment Classification of Short Texts based on Semantic Clustering*. 2015 International Conference on Orange Technologies, Hong Kong, China. (Accepted) (Oral Presentation: [*PPT*](http://www.slideshare.net/YunchaoHe/yunchao-he-icot2015-59452942))
+
+-   Liang-Chih Yu, Lung-Hao Lee, Shuai Hao, Jun Hu and K. Robert Lai, Yunchao He. (2016, June). Building Chinese Affective Resources in Valence-Arousal Dimensions. *The 15th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies* (NAACL HLT 2016), San Diego, California. (Accepted) (负责实验部分)
 
 -   Yunchao He, Liang-Chih Yu, K. Robert Lai, Weiyi Liu. (2016). Word Embeddings Refinement Using Sentiment Lexicons. In *Proceedings of the 54rd Annual Meeting of the Association for Computational Linguistics* (ACL-16), Berlin, Germany. (Under Review)
 
@@ -156,6 +156,6 @@
 
 相关能力
 
--   编程语言：Python (熟练)，C(熟练)，Java (熟练)，Matlab (熟练)，C\#（了解）
+-   编程语言：Python (熟练)，C(熟练)，Java (熟练)，Matlab (熟练)，C\#(了解)
 
 -   英语：CET-6
