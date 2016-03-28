@@ -26,11 +26,11 @@
 
     -   单词级别和文本级别情感分析
 
-    -   深度神经网络在自然语言处理中的应用 (E.g., word2vec, GloVe, sentence vectors)
-
     -   连续型情感强度预测
 
     -   文本情感倾向分类
+
+    -   深度神经网络在自然语言处理中的应用 (E.g., word2vec, GloVe, sentence vectors)
 
 -   机器学习
 
@@ -84,35 +84,35 @@
 
 所获奖励
 
--   2016年度，SemEval-2016 Task 4 Subtask C情感分析竞赛在micro-MAE度量上取得第二名
+-   2016年度，第10届国际SemEval-2016 Task 4 Subtask C情感分析竞赛在micro-MAE度量上取得**第二名**
 
     (新闻报道：[*YZU*](http://www.yzu.edu.tw/index.php/component/option,com_alphacontent/section,2/cat,1/task,view/id,11070/Itemid,236/lang,tw/)，[*Sina*](http://news.sina.com.tw/article/20160308/16309006.html)，[*自由时报*](http://news.ltn.com.tw/news/life/breakingnews/1624996))
 
--   2015年度，云南省研究生省政府奖学金
+-   2015年度，云南省研究生省政府**奖学金** (Top 5)
 
 -   2015年度，美国数学建模竞赛成功参与奖 (ICM-2015)
 
--   2014年度，第十一届全国研究生数学建模竞赛一等奖
+-   2014年度，第十一届全国研究生数学建模竞赛**一等奖**
 
--   2013年度，天津市人民政府奖学金
+-   2013年度，天津市人民政府**奖学金** (Top 5)
 
--   2013年度，天津工业大学校长一等奖学金
+-   2013年度，天津工业大学校长**一等**奖学金
 
--   2012年度，天津工业大学校长二等奖学金
+-   2012年度，天津工业大学校长**二等**奖学金
 
 论文发表
 
--   Chin-Sheng Yang, Yung-Chih Chen, Yunchao He. (2015, July). MINING OPINION LEADERS IN SOCIAL MEDIA. *The Third Taiwan Summer Workshop on Information Management*, Taipei, Taiwan. (Accepted)
+-   Chin-Sheng Yang, Yung-Chih Chen, Yunchao He. (2015, July). MINING OPINION LEADERS IN SOCIAL MEDIA. *The Third Taiwan Summer Workshop on Information Management* (TSWIM 2016), Taipei, Taiwan.
 
--   Yunchao He, Chin-Sheng Yang, Liang-Chih Yu, K. Robert Lai, Weiyi Liu. (2015, December). *Sentiment Classification of Short Texts based on Semantic Clustering*. 2015 International Conference on Orange Technologies, Hong Kong, China. (Accepted) (Oral Presentation: [*PPT*](http://www.slideshare.net/YunchaoHe/yunchao-he-icot2015-59452942))
+-   Yunchao He, Chin-Sheng Yang, Liang-Chih Yu, K. Robert Lai, Weiyi Liu. (2015, December). Sentiment Classification of Short Texts based on Semantic Clustering. *2015 International Conference on Orange Technologies* (ICOT 2015), Hong Kong, China. (Oral Presentation: [*PPT*](http://www.slideshare.net/YunchaoHe/yunchao-he-icot2015-59452942))
 
 -   Liang-Chih Yu, Lung-Hao Lee, Shuai Hao, Jun Hu and K. Robert Lai, Yunchao He. (2016, June). Building Chinese Affective Resources in Valence-Arousal Dimensions. *The 15th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies* (NAACL HLT 2016), San Diego, California. (Accepted) (负责实验部分)
 
--   Yunchao He, Liang-Chih Yu, K. Robert Lai, Weiyi Liu. (2016). Word Embeddings Refinement Using Sentiment Lexicons. In *Proceedings of the 54rd Annual Meeting of the Association for Computational Linguistics* (ACL-16), Berlin, Germany. (Under Review)
+-   Yunchao He, Liang-Chih Yu, K. Robert Lai, Weiyi Liu. (2016). Word Embeddings Refinement Using Sentiment Lexicons. In *Proceedings of the 54rd Annual Meeting of the Association for Computational Linguistics* (ACL 2016), Berlin, Germany. (Under Review)
 
--   Yunchao He, Liang-Chih Yu, Chin-Sheng Yang, K. Robert Lai, Weiyi Liu. (2016). YZU-NLP Team at SemEval-2016 Task 4: Ordinal Sentiment Classification Using a Recurrent Convolutional Network. In *Proceedings of the 10th International Workshop on Semantic Evaluation* (SemEval 2016), San Diego, California. (Under Review)
+-   Yunchao He, Liang-Chih Yu, Chin-Sheng Yang, K. Robert Lai, Weiyi Liu. (2016). YZU-NLP Team at SemEval-2016 Task 4: Ordinal Sentiment Classification Using a Recurrent Convolutional Network. In *Proceedings of the 10th International Workshop on Semantic Evaluation* (SemEval 2016 at NAACL), San Diego, California. (Accepted)
 
--   Yunchao He, Liang-Chih Yu, Jin Wang, K. Robert Lai, Weiyi Liu. (2015). Sentence Level Sentiment Intensity Detecting using Convolutional Neural Networks. *The 26th International Conference on Computational Linguistics* (COLING 2016), Osaka, Japan. (In Progress)
+-   Yunchao He, Liang-Chih Yu, Jin Wang, K. Robert Lai, Weiyi Liu. (2016). Sentence Level Sentiment Intensity Detecting using Convolutional Neural Networks. *The 26th International Conference on Computational Linguistics* (COLING 2016), Osaka, Japan. (In Progress)
 
 -   \[硕士毕业论文\] 何云超. (2016). 聚类算法和卷积神经网络在文本情感分析中的应用研究. 云南大学.
 
@@ -124,7 +124,7 @@
 
     -   Ordinal\_Classification 2016年1月 ([*Source*](https://github.com/candlewill/Ordinal_classification))
 
-        整合LSTM模型和CNN模型，构建LSTM-CNN模型，将Twitter文本按照其情感强度划分为五点度量。
+        整合LSTM模型和CNN模型，构建了LSTM-CNN模型，将Twitter文本按照其情感强度划分为五点度量。
 
     -   Vecamend 2015年11月 – 2016年2月 ([*Source*](https://github.com/candlewill/Vecamend-master2))
 
@@ -144,7 +144,7 @@
 
     -   short\_texts\_sentiment\_analysis 2015年6月 ([*Source*](https://github.com/candlewill/short_texts_sentiment_analysis))
 
-        基于情感词典的方法，用情感词汇的多种组合方式(平均值、TF加权平均值、TFIDF加权平均值、几何平均值、加权平均值)预测短文本的情感大小。
+        基于情感词典的方法，用情感词汇的多种组合方式(平均值、TF加权平均值、TF-IDF加权平均值、几何平均值、加权平均值)预测短文本的情感大小。
 
 -   参加Kaggle-2015比赛，使用bag-of-words特征对IMDB电影评论数据的情感分类，结果排156名(共578队参赛)
 
