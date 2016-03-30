@@ -2,7 +2,7 @@
 
 **研究方向：**文本情感分析，自然语言处理，深度学习，机器学习
 
-**Email:** yunchaohe@gmail.com **Phone:** 15288217670
+**Email:** yunchaohe@gmail.com **Phone:** 17180108342
 
 基本信息
 
@@ -13,7 +13,7 @@
 | 导师     |     | 禹良治教授（台湾）、刘惟一教授（大陆）                                                      |
 | 学习经历 |     | 台湾元智大学、云南大学、天津工业大学                                                        |
 | 毕业时间 |     | 2016年5月                                                                                   |
-| 联系电话 |     | (+86) 15288217670                                                                           |
+| 联系电话 |     | (+86) 17180108342                                                                           |
 | Email    |     | yunchaohe@gmail.com                                                                         |
 | GitHub   |     | [*https://github.com/candlewill*](https://github.com/candlewill)                            |
 | 技术博客 |     | Python ([*http://paisen.blogspot.com/*](http://paisen.blogspot.com/))                       
