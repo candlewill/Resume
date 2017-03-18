@@ -1,8 +1,7 @@
 ### Resume
 This is the resume of Yunchao He in multiple formats, including:
-* PDF: [中文](./Yunchao He's resume.pdf), [English]()
-* DOCX: [中文](./Yunchao He's resume.docx), [English]()
-* Markdown:  [中文](./Yunchao He's resume.md), [English]()
+* PDF: [中文](./Yunchao He's resume.pdf)
+* DOCX: [中文](./Yunchao He's resume.docx)
 * Html: [中文](http://sentiment-mining.blogspot.com/p/about-me.html)
 
 
